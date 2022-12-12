@@ -3,7 +3,7 @@
   body {
     background-color: #aeaeae;
   }
-
+ 
   .title {
     margin-top: 150px;
     margin-bottom: 10px;
@@ -34,7 +34,7 @@
     </div>
     </div>
 
-  </form>
+</form>
 
 
 </body>
